@@ -7,3 +7,6 @@ tags:
 
 # First Artical
 This is very fangbian.
+
+<!-- more -->
+ceshi dierye.
