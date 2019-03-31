@@ -9,5 +9,16 @@ Blog for liningning, using github pages.
 - github pages
 - aliyun
 
+## Config
+- Theme
+    - minos
+        - https://blog.zhangruipeng.me/hexo-theme-minos/
+
+- Comments
+    - disqus https://disqus.com/admin/create/
+
+- Share
+    - Addthis
+
 ## Contributions
 Welcome any kind of issues or pr.
