@@ -1,0 +1,73 @@
+# Website's icon url.
+favicon: /favicon.png
+
+
+# Open Graph metadata (https://hexo.io/docs/helpers.html#open-graph)
+open_graph:
+  twitter_id: ninglee
+  twitter_site: www.baidu.com
+  google_plus: www.baidu.com
+  fb_admins: 
+  fb_app_id:
+
+# Website's logo shown on the left of the navigation bar.
+# It can either be an url to an image or a string if the following option is set.
+# logo:
+#   text: <logo string>
+logo:
+  text: NingLee
+
+article:
+  # Show word count and estimated reading time.
+  readtime: true
+  # Code highlight theme, please see https://highlightjs.org/static/demo/
+  highlight: atom-one-light
+
+# Navigation bar menu links.
+# menu:
+  # Archives: /archives
+  # Lifestyle: /categories/LifeStyle
+  # Music: /categories/Music
+  # Technology: /categories/Technology
+  # About: /about/index.md
+
+# Search plugin settings.
+search:
+  type: insight
+
+# Navigation bar toc settings
+toc: true
+
+# Share plugin settings.
+share:
+  type: addthis
+  install_url: //s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5ca0dd528c48bb0d
+
+# Comment plugin settings.
+comment: 
+  type: disqus
+  shortname: https://blog-ninglee.disqus.com/
+
+# Other plugins and their settings.
+plugins:
+  mathjax: true
+  katex: true
+  gallery: true
+  clipboard: true
+  google-analytics:
+    tracking_id:
+
+# Additional navigation bar links on the right.
+# Links can either be text or icon. The following link is set to be an icon link whose icon
+# is set to the class name of a FontAwesome 5 icon. The `footer_links` below also gives an
+# example of setting plain text links.
+navbar_links:
+  GitHub:
+    icon: fab fa-github
+    url: https://github.com/gutouyu/ML_CIA
+
+# Links at the bottom of the page.
+footer_links:
+  GitHub: https://github.com/gutouyu/ML_CIA
+  CSDN: https://blog.csdn.net/u010352603
+  知乎: https://www.zhihu.com/people/ning-lee-39
