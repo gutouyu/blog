@@ -24,5 +24,5 @@ Blog for liningning, using github pages.
 Welcome any kind of issues or pr.
 
 ## Submodule
-- 
+- https://segmentfault.com/a/1190000009928515
 - [rm submodule](https://gist.github.com/myusuf3/7f645819ded92bda6677)
