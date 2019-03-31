@@ -22,3 +22,7 @@ Blog for liningning, using github pages.
 
 ## Contributions
 Welcome any kind of issues or pr.
+
+## Submodule
+- 
+- [rm submodule](https://gist.github.com/myusuf3/7f645819ded92bda6677)
