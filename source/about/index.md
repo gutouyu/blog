@@ -44,10 +44,6 @@ date: 2019-04-01 01:56:00
 
 关注我，不迷路！
 ![](/gallery/公众号/二维码.jpg)
-<!-- ![](/gallery/公众号/二维码.jpg){:width="100px" height="100px}
-
-hexo的格式怎么样
-<img src="./gallery/公众号/二维码.jpg", width="50%", height="50%> -->
 
 ## 邮箱
 ning531267557@163.com
