@@ -4,8 +4,7 @@ if [ ! -n "$1" ] ;then
 else
     git config  user.email "ning531267557@163.com"
     git config  user.name "gutouyu"
-    hexo clean
     git add --all
     git commit -m $1
-    git push orgin master:master
+    git push origin master:master
 fi
