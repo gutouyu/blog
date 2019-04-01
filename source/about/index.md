@@ -28,6 +28,8 @@ date: 2019-04-01 01:56:00
 - 安卓
 - 后台
 - Javacard
+- 虚拟化
+- 运维
 
 ### Now
 - 推荐系统
@@ -39,12 +41,12 @@ date: 2019-04-01 01:56:00
 - [CSDN](https://blog.csdn.net/u010352603)
 - [Github](https://github.com/gutouyu/ML_CIA)
 
+## 邮箱
+ning531267557@163.com
+
 ## 微信公众号
 <!-- ![](/gallery/公众号/logo.jpg) -->
 
 关注我，不迷路！
 ![](/gallery/公众号/二维码.jpg)
-
-## 邮箱
-ning531267557@163.com
 
